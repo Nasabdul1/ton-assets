@@ -4055,6 +4055,17 @@
   "symbol": "FR0"
  },
  {
+  "address": "0:89e3660d349e6efbf1234a98db9db309c24db782aa59d9e4aec5f05ae95952e0",
+  "description": "Freedom - the word echoed across TON!",
+  "image": "https://i.ibb.co/bMzfzCKx/Chat-GPT-Image-Oct-10-2025-11-28-10-PM-png.png",
+  "name": "Freedom",
+  "social": [
+   "https://x.com/i/communities/1976724649389310317",
+   "https://t.me/RealFreedomTon"
+  ],
+  "symbol": "FREEDOM"
+ },
+ {
   "address": "0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077",
   "description": "A full-fledged IT project with its own utility \u2014 VPN inside Telegram.",
   "image": "https://raw.githubusercontent.com/JustYay/incteam/refs/heads/main/1024.png",
