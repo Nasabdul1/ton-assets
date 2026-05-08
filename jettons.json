@@ -1923,6 +1923,20 @@
   ]
  },
  {
+  "address": "0:e881577f266cae567aec29ba57c8ebbe0acedd98a5a02c538141a52aa1832d4f",
+  "decimals": 9,
+  "description": "CNP combines NFTs, social incentives, and TON blockchain technology to build a decentralized pet content ecosystem.",
+  "image": "https://cnp-token-assets.pages.dev/assets/token.png",
+  "name": "CATNIP",
+  "social": [
+   "https://t.me/scaredcat"
+  ],
+  "symbol": "CNP",
+  "websites": [
+   "https://getgems.io/user/UQDU5RDJxfWVNwPA_DXVUzOUrAt3ByC8VJpSD9IdwQqOSkb3"
+  ]
+ },
+ {
   "address": "0:3702c84f115972f3043a9998a772b282fc290948a5eaaa3ca0d1532c56317f08",
   "name": "CATS",
   "symbol": "CATS"
